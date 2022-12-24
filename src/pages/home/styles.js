@@ -11,6 +11,7 @@ export const Container = styled.main`
    justify-content: space-between;
    align-items: center;
  `
+   
    export const Title = styled.h2`
     font-family: 'Open Sans';
     font-style: normal;
